@@ -1,0 +1,7 @@
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\P 1\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
